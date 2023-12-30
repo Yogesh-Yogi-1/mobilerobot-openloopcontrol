@@ -95,7 +95,8 @@ if __name__ == '__main__':
 ![output](/WhatsApp%20Image%202023-12-28%20at%203.58.41%20PM%20(1).jpeg)
 ![output](/WhatsApp%20Image%202023-12-28%20at%203.58.41%20PM%20(2).jpeg)
 ![ouput](/WhatsApp%20Image%202023-12-28%20at%203.58.41%20PM%20(3).jpeg)
-![output](/WhatsApp%20Image%202023-12-28%20at%203.58.41%20PM.jpeg)
+![WhatsApp Image 2023-12-28 at 3 58 41 PM](https://github.com/Yogesh-Yogi-1/mobilerobot-openloopcontrol/assets/148514598/907f8d7c-adca-4d34-8458-9ff95ab97206)
+
 <br/>
 <br/>
 <br/>
